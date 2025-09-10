@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CRYPTOELITE GUIDE</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>CRYPTOELITE GUIDE</h1>
+    <p>Le guide exclusif pour réussir en crypto</p>
+  </header>
+
+  <nav>
+    <a href="index.html">Accueil</a>
+    <a href="produit.html">Produit Populaire</a>
+    <a href="boutique.html">Boutique</a>
+    <a href="assistance.html">Assistance</a>
+  </nav>
+
+  <section>
+    <h2>Bienvenue sur CryptoElite</h2>
+    <p>Découvrez nos stratégies et devenez un investisseur d’élite.</p>
+    <p><a href="produit.html" class="btn-buy">Voir le produit en promo</a></p>
+  </section>
+
+  <footer>
+    <p>Contact : <strong>cryptoelite@gmail.com</strong></p>
+  </footer>
+</body>
+</html>
